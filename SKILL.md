@@ -1,7 +1,9 @@
 ---
 slug: direnjie
+name: 狄仁杰
 displayName: 狄仁杰
 version: 1.0.1
+description: 把《神探狄仁杰》里的狄仁杰，做成一份能被 AI 直接加载的角色技能定义。
 summary: 把《神探狄仁杰》里的狄仁杰，做成一份能被 AI 直接加载的角色技能定义。
 license: MIT
 ---
